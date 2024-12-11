@@ -1,9 +1,10 @@
-## Nice to meet ya! Zochrab Blume's the name!
+## Welcome! The name's <ins>_Zochrab Blume_</ins>!
 Hello! I'm a student at 42Berlin, currently working on various programming projects, mostly focused on C. My work includes building and contributing to projects like **minishell** (a custom shell), **philosophers** (a simulation based on the dining philosophers problem), and **various algorithm challenges** for my studies.
 
 ## About Me
 - I'm a passionate programmer and a student at **42Berlin**, where I'm learning software development with a focus on algorithms and systems programming.
-- I mostly write in **C** but enjoy working on challenges that require deep problem-solving skills.
+- I mostly write in **C**.
+- To me, Programming is like **puzzle-solving**, and the harder the puzzle the greater the feeling you get when solving them!
 - Check out my projects to see what I'm working on and learning along the way.
 
 ## Projects
@@ -21,21 +22,8 @@ Here are a few of my recent projects:
 
 Feel free to explore my repositories, mayhaps it gives you ✨inspiration✨!
 
-Thanks for visiting!
 
+## Currennt 42Berlin progress
 [![zblume's 42 stats](https://badge.mediaplus.ma/darkblue/zblume?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<!--
-**Zochrab/Zochrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! Hope you enjoy your stay!
